@@ -1,8 +1,8 @@
 # 3D-items
 Objetos para impresión 3D
 
-
-
+## Author
+Antonio Andújar Mingorance
 
 ## License
 
